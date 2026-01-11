@@ -40,10 +40,10 @@ function App() {
                 </div>
                 <div>
                   <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 bg-clip-text text-transparent">
-                    Lead Management
+                    Customer Catalogue
                   </h1>
                   <p className="text-xs text-gray-500 dark:text-gray-400">
-                    Powered by Supabase
+                    Lead Management
                   </p>
                 </div>
               </div>
